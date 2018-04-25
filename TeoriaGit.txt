@@ -16,7 +16,8 @@ programadores que lo revisan.
 Los almacenes de información pueden publicarse por HTTP, FTP, rsync o mediante un protocolo
 nativo, ya sea a través de una conexión TCP/IP simple o a través de cifrado SSH. Git también puede
 emular servidores CVS, lo que habilita el uso de clientes CVS pre-existentes y módulos IDE para CVS
-pre-existentes en el acceso de repositorios Git.
+pre-existentes en el acceso de repositorios Git.
+
 
 
 GitHub
@@ -58,6 +59,9 @@ tiene un increíble sistema de ramificación (branching) para desarrollo no line
 Ramificaciones en Git)
 
 
+
+jhoant sebastian w godoy
+1007196768
 
 
 
